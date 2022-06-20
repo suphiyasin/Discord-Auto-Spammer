@@ -41,3 +41,4 @@ $cahid = $use->getCahnelID($idvename[0]);
 $use->sendMessage($text, $cahid);
 }
 ```
+Discord User API Coming Soon
